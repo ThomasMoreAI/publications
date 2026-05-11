@@ -1,23 +1,23 @@
 {
-  "version": "0.6.2",
+  "version": "0.8.1",
   "notes": "",
-  "pub_date": "2026-04-17T09:46:14.105Z",
+  "pub_date": "2026-05-11T19:20:10.197Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RGZUUlBHd1A2VnMzSUFCN21ac1JIdUtJUHNIWWVSZCtOVkFMQ3dPK2pabkg5YXJYaTVMUkFyMm9ldlBId1NzVkViUEF0MC9YMHlZRStOT2VOUEpQS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDE3NDU4CWZpbGU6VGhvbWFzTW9yZS5hcHAudGFyLmd6CktBeGVSYWRacktveEZBSy9JRC8vVVZFWTRHTFlibjVOYWNaaEFmY1RZWkVlOVozOHk5STdXMDVqY2xnU3hsWmhkSFZoMzNSaE4rQUxMUFRueWN0Z0JRPT0K",
-      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.6.2/ThomasMore_0.6.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RGVkcFI4NkI2UnZXbzB6U0hKMGFsdzVEWHZaZnpwOWxLNHdHUS81MVJkMms1ZU5SR0lDTi9CYlRzWWcvUS9qUjYyNnhZNktKcnZ2WmgraUEra3VZRndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTI2MjAwCWZpbGU6VGhvbWFzTW9yZS5hcHAudGFyLmd6CkUySjl5VU1Pc0tqYjZYOEtveS9FbHRCKyt2QXRnT1VFQTBaT1M5RmxrY0NrVi82QTRoRy8raDlCS1hhNWZha2NRL0d2dGpEV3BBRUlJM05PbFNzdURRPT0K",
+      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.8.1/ThomasMore_0.8.1_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RGZUUlBHd1A2VnMzSUFCN21ac1JIdUtJUHNIWWVSZCtOVkFMQ3dPK2pabkg5YXJYaTVMUkFyMm9ldlBId1NzVkViUEF0MC9YMHlZRStOT2VOUEpQS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDE3NDU4CWZpbGU6VGhvbWFzTW9yZS5hcHAudGFyLmd6CktBeGVSYWRacktveEZBSy9JRC8vVVZFWTRHTFlibjVOYWNaaEFmY1RZWkVlOVozOHk5STdXMDVqY2xnU3hsWmhkSFZoMzNSaE4rQUxMUFRueWN0Z0JRPT0K",
-      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.6.2/ThomasMore_0.6.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RGVkcFI4NkI2UnZXbzB6U0hKMGFsdzVEWHZaZnpwOWxLNHdHUS81MVJkMms1ZU5SR0lDTi9CYlRzWWcvUS9qUjYyNnhZNktKcnZ2WmgraUEra3VZRndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTI2MjAwCWZpbGU6VGhvbWFzTW9yZS5hcHAudGFyLmd6CkUySjl5VU1Pc0tqYjZYOEtveS9FbHRCKyt2QXRnT1VFQTBaT1M5RmxrY0NrVi82QTRoRy8raDlCS1hhNWZha2NRL0d2dGpEV3BBRUlJM05PbFNzdURRPT0K",
+      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.8.1/ThomasMore_0.8.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RFdpdnk5emg2UGRNdDJPRUFONjlGRzNMSktrWjFiV28xVk1aKzNkaSszem1tOHNXejdud3o4bEJnOEhQa0hNd3RrWWtKcFFXUkJ1NThEWDc2ZzMwVlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDE5MTY5CWZpbGU6VGhvbWFzTW9yZV8wLjYuMl94NjQtc2V0dXAuZXhlCmpjTjFZeTJOZHlzZHFsOGZoV1FqUHBTVHVobWtOdFlBSGt0bDl2SnlsZm9La1M0S2xncy9Ud0MrMkpQQlE1ZDg2cHpUa3ZQUXR6QmpJdFBzSXM0bUNBPT0K",
-      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.6.2/ThomasMore_0.6.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RGVLdFR5RmxZazhuakgwcGgySWJXVTlwUk9JZk91dVdVRmpIaXNJQ2QwYjVka2VCT0YwemVNTGRYR0E2bTVUYWRHMUlKMExKbVI4VGo2QWVsRnJEQUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTI3MTc5CWZpbGU6VGhvbWFzTW9yZV8wLjguMV94NjQtc2V0dXAuZXhlCmsvMm1pU0JRSjRadWNranJvT2lYMnVVNE1BRThCWXlPTmxvb0NyK29rb2lIdFNYWWdMYUNoYVN0SWorTlVoT3BFNHd0dVVxeHJWbHdmSkVPbjFNckNnPT0K",
+      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.8.1/ThomasMore_0.8.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RFdpdnk5emg2UGRNdDJPRUFONjlGRzNMSktrWjFiV28xVk1aKzNkaSszem1tOHNXejdud3o4bEJnOEhQa0hNd3RrWWtKcFFXUkJ1NThEWDc2ZzMwVlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDE5MTY5CWZpbGU6VGhvbWFzTW9yZV8wLjYuMl94NjQtc2V0dXAuZXhlCmpjTjFZeTJOZHlzZHFsOGZoV1FqUHBTVHVobWtOdFlBSGt0bDl2SnlsZm9La1M0S2xncy9Ud0MrMkpQQlE1ZDg2cHpUa3ZQUXR6QmpJdFBzSXM0bUNBPT0K",
-      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.6.2/ThomasMore_0.6.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUENqN0ZoWXZ2RGVLdFR5RmxZazhuakgwcGgySWJXVTlwUk9JZk91dVdVRmpIaXNJQ2QwYjVka2VCT0YwemVNTGRYR0E2bTVUYWRHMUlKMExKbVI4VGo2QWVsRnJEQUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTI3MTc5CWZpbGU6VGhvbWFzTW9yZV8wLjguMV94NjQtc2V0dXAuZXhlCmsvMm1pU0JRSjRadWNranJvT2lYMnVVNE1BRThCWXlPTmxvb0NyK29rb2lIdFNYWWdMYUNoYVN0SWorTlVoT3BFNHd0dVVxeHJWbHdmSkVPbjFNckNnPT0K",
+      "url": "https://github.com/ThomasMoreAI/publications/releases/download/v0.8.1/ThomasMore_0.8.1_x64-setup.exe"
     }
   }
 }
